@@ -1,0 +1,2 @@
+# renwuzhi_issues
+这个仓储为人物志网站提供勘误，所有的勘误请发表到issues区域
